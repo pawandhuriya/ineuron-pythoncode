@@ -29,7 +29,7 @@
 list1=[1,2,3,4,5,6,7]
 
 squre_num=lambda x:x*x
-square_list=dict(map(squre_num,list1))
+square_list=list(map(squre_num,list1))
 print(square_list)
 
 

@@ -16,8 +16,8 @@
 # print(result)
 
 # How to works with list
-list_a=[9,-1,2,-4,6,3,-4,0]
-print(result=[x for x in list_a if x>=0]+[x for x in list_a if x<=0])
+# list_a=[9,-1,2,-4,6,3,-4,0]
+# result=[x for x in list_a if x>=0]+[x for x in list_a if x<=0]
 # print(result)
 
 
